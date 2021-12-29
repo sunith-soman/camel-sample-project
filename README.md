@@ -1,1 +1,1 @@
-Apache Camel Samples - Sprint Boot + Camel
+Apache Camel Samples - Spring Boot + Camel
