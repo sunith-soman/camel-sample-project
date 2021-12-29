@@ -1,1 +1,1 @@
-Apache Camel Samples
+Apache Camel Samples - Sprint Boot + Camel
